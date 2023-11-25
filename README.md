@@ -130,7 +130,7 @@ Now you have a very good resume and you know all basics of CS. The time has come
 
 ### This is the right time!
 
-Yes! This is December and Internship process for the next summer has just started. I have already created a sheet for you! Open <a href="https://docs.google.com/spreadsheets/d/1-0M50QEHjB64WhdcMFDlAbp4atND8QrlWJwKkfpNJ2k/edit?usp=sharing" target="_blank">this sheet</a> and make a copy for yourself. Edit companies as per your preferences. 
+Yes! This is December and Internship process for the next summer has just started. I have already created a sheet for you! Open <a href="https://docs.google.com/spreadsheets/d/1-0M50QEHjB64WhdcMFDlAbp4atND8QrlWJwKkfpNJ2k" target="_blank">this sheet</a> and make a copy for yourself. Edit companies as per your preferences. 
 
 Apply everywhere! Don't think that you don't have a perfect resume, just visit their career website or <a href="https://www.linkedin.com/vsearch/j?keywords=Internship&title=Internship&sb=Jobs%20for%20Internship%20titles&trk=tyah&trkInfo=clickedVertical%3Asuggestion%2CclickedEntityId%3A166%2Cidx%3A1-1-1%2CtarId%3A1457835727447%2Ctas%3Ainternship%20" target="_blank">LinkedIn internship posts</a> and fill the form. I applied to <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">more than 20 companies this year</a>. 
 
