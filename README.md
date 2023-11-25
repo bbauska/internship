@@ -36,7 +36,7 @@ I interviewed with 5-6 companies and from my experience here is the list of topi
 |Trie|Prim's Algorithm|| Inode
 |Suffix Tree| Divide & Conqure and DP| | |
 
-#### But Vicky, I would be applying for position specific internship. Where is my list?
+#### But Brian, I would be applying for position specific internship. Where is my list?
 
 Here you go!
 
@@ -51,29 +51,38 @@ Here you go!
 |Angular|
 |Chrome Dev Tools|
 
-
 I'm not listing here very basic stuffs like Working with Ubuntu, Curl and telnet command etc.
 
-**Note:** You don't need to do know everything mentioned in the table above. Algorithm and Data structure are very important to crack any interview so you should spent most of the time learning and practicing problems. 
+**Note:** You don't need to do know everything mentioned in the table above. Algorithm and Data structure are very important 
+to crack any interview so you should spent most of the time learning and practicing problems. 
 
-#### Vicky, That's huge list! Are there any good resources available?
+#### Brian, That's huge list! Are there any good resources available?
 
 Yes! All the useful websites, PDFs and article links are mentioned at the end of the post. 
 
 ---
 
-Getting shortlisted for the interviews is the toughest part and for that your resume should be very strong and of very high quality. So what are the different factors that the recruiter would love to see on your resume?
+Getting shortlisted for the interviews is the toughest part and for that your resume should be very strong and of very 
+high quality. So what are the different factors that the recruiter would love to see on your resume?
 
 - **College**
 - **Projects**
 
-	Yes, before applying for an internship make sure that you have some good quality projects to mention in your resume. Upload your code on <a href="https://github.com/vicky002" target="_blank">Github</a>, make it open source and add links to code in your resume. If you're searching for project ideas, I have a list of <a href="https://github.com/vicky002/1000_Projects" target="_blank">more than 500 projects</a>. 		
+	Yes, before applying for an internship make sure that you have some good quality projects to mention in your resume.
+Upload your code on <a href="https://github.com/vicky002" target="_blank">Github</a>, make it open source and add links to
+code in your resume. If you're searching for project ideas, I have a list of <a href="https://github.com/vicky002/1000_Projects" 
+target="_blank">more than 500 projects</a>. 		
 - **Open Source Contributions**
 	
-	Search for good projects to <a href="https://github.com/explore" target="_blank">contribute on Github</a> improve documentation and fix bugs and do some enhancements. Companies really love it! If you don't have a good GPA then projects and open source contributions really add value to your resume.	 		
+	Search for good projects to <a href="https://github.com/explore" target="_blank">contribute on Github</a> improve
+documentation and fix bugs and do some enhancements. Companies really love it! If you don't have a good GPA then projects
+and open source contributions really add value to your resume.	 		
 - **Past internships** (If any)
 	
-	Before applying to top companies in US or India, you should do at least one internship in any startup. Startup internships are really a great place to learn a lot of things in a very short time. Don't think of stipend, if you really love their idea just mail and ask them about internship positions. There are many websites available for startup internships list of websites can be found at the bottom of the post.				
+	Before applying to top companies in US or India, you should do at least one internship in any startup. Startup
+internships are really a great place to learn a lot of things in a very short time. Don't think of stipend, if you really
+love their idea just mail and ask them about internship positions. There are many websites available for startup internships
+list of websites can be found at the bottom of the post.				
 - **Leadership Qualities**
 	
 	Volunteer in a non profit organization and be a part of college committees. 	
@@ -83,7 +92,8 @@ Getting shortlisted for the interviews is the toughest part and for that your re
 
 ### Things you need to do while applying 
 
-Ok, now you have some good quality projects, you know basics of CS fundamentals and you have a good knowledge of data structure and algorithms. This is time to write a good resume!  
+Ok, now you have some good quality projects, you know basics of CS fundamentals and you have a good knowledge of data structure 
+and algorithms. This is time to write a good resume!  
 
 Your resume should have following sections. 
 
