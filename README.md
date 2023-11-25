@@ -198,6 +198,8 @@ I have collected some interview experiences of top companies from different reso
 #### Other
 
 - <a href="https://github.com/sindresorhus/awesome" target="_blank">Awesome</a> (This contains everything you need!)
+- <a href="https://docs.google.com/document/d/18gTLWrNnpvdYKkxZ6s0yW_zExfnlPUGqRP18Vlz3EG0" target="_blank">My Resume</a>.
+- <a href="https://cellardoor.bauska.org/" target="_blank" rel="noopener noreferrer">Everything I'm doing now Relating to Computer Science</a>
 
 
 Last thing: 
